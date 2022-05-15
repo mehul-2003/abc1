@@ -9,5 +9,5 @@ for(int i=1;i<n;i++){
 int main(){
     int n;
     cin>>n;
-
+    return 0;
 }
