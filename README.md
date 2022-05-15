@@ -11,3 +11,4 @@ int main(){
     cin>>n;
     return 0;
 }
+    SCM file By Mehul Kapoor
